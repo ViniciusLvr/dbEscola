@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
     <head>
         <link rel="stylesheet" href="style.css">
     </head>
@@ -16,4 +16,4 @@ while ($row = $result->fetch_assoc()) {
     echo "</div>";
 }echo"</div>";
 ?>
-</html>
+</html> -->

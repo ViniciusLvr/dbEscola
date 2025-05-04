@@ -1,4 +1,4 @@
-
+<!-- 
 <?php
 include 'db.php';
 
@@ -13,4 +13,4 @@ if ($conn->query($sql) === TRUE) {
 } else {
     echo "Erro: " . $conn->error;
 }
-?>
+?> -->
